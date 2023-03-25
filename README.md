@@ -1,2 +1,3 @@
-# p5
-Simple simulations with p5.js
+# Projectile simulation
+
+Simple projectile simulation made with p5 as part of PhysHub project (deprecated).
